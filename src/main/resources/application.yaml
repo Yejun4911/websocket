@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: web-socket
+
+server:
+  port:
+    9000
